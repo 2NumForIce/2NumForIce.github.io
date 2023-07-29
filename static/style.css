@@ -1,25 +1,25 @@
 body {
-    background-color: dimgray;
-    color: aliceblue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: dimgray;
+	color: aliceblue;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 a:link {
-    color: deepskyblue;
-    text-decoration: none;
+	color: deepskyblue;
+	text-decoration: none;
 }
 a:visited {
-    color: cornflowerblue;
-    text-decoration: none;
+	color: cornflowerblue;
+	text-decoration: none;
 }
 a:hover {
-    text-decoration: underline;
+	text-decoration: underline;
 }
 a:active {
-    color: gold;
-    text-decoration: underline;
+	color: gold;
+	text-decoration: underline;
 }
 
 .center {
-    text-align: center;
+	text-align: center;
 }
