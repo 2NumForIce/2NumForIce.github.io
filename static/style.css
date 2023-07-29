@@ -3,6 +3,23 @@ body {
     color: aliceblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+a:link {
+    color: deepskyblue;
+    text-decoration: none;
+}
+a:visited {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    color: gold;
+    text-decoration: underline;
+}
+
 .center {
     text-align: center;
 }
