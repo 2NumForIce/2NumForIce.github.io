@@ -1,0 +1,8 @@
+body {
+    background-color: dimgray;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.center {
+    text-align: center;
+}
